@@ -1,6 +1,6 @@
 # Bookstore
 
-This is a command line-based program that represents an imaginary bookstore. It accepts command line arguments to print out certain reports, which can be sorted or filtered in different ways.
+This is a command-line-based program that represents an imaginary bookstore. It accepts command line arguments to print out certain reports, which can be sorted or filtered in different ways.
 
 The program gets a list of books, customers, and purchase history by parsing .dat and .csv files.
 
